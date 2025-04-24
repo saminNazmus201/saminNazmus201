@@ -1,12 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+Data+Science+%26+Python;Let's+build+something+awesome+🚀&center=true&width=500&height=45)
 
 ### 💫 About Me:
-Hi, I'm MD Nazmus Sadat Samin, an AI enthusiast from Bangladesh. Completed my Bachelor's from North South University. Now working as a Junior Executive-Data Annotator at Synpatica Ai. 
+Hi, I'm MD Nazmus Sadat Samin, an AI enthusiast from Bangladesh. I completed my bachelor's from North South University. Now working as a Junior Executive-Data Annotator at Synpatica Ai. 
 
-- 🌱 Currently learning: Data Analytics
-- 🔭 I Have Worked on: Machine Learning, Deep Learning, Natural Language Processing
-- 
-- 📫 How to reach me: sadatnazmus567@gmail.com
+- 🌱 Currently learning: Data Analytics  
+- 🔭 I Have Worked on: Machine Learning, Deep Learning, Natural Language Processing  
+- 📄 My Publication: [BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization](https://ieeexplore.ieee.org/abstract/document/10826131)  
+- 📫 How to reach me: sadatnazmus567@gmail.com  
 
 ---
 
