@@ -19,11 +19,11 @@ Hi, I'm MD Nazmus Sadat Samin, an AI enthusiast from Bangladesh. Completed my Ba
 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINK/](https://www.linkedin.com/in/md-nazmus-sadat-samin-58089021b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINK/](https://www.linkedin.com/in/md-nazmus-sadat-samin-58089021b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://samin.dev](https://scholar.google.com/citations?user=PL_fEmgAAAAJ&hl=en)" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  <a href="https://samin.dev](https://scholar.google.com/citations?user=PL_fEmgAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
