@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello There, Welcome
 
-<!--
-**saminNazmus201/saminNazmus201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+Data+Science+%26+Python;Let's+build+something+awesome+🚀&center=true&width=500&height=45)
 
-Here are some ideas to get you started:
+### 💫 About Me:
+Hi, I'm MD Nazmus Sadat Samin, an AI enthusiast from Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Data Analytics
+- 🔭 I Have Worked on: Machine Learning, Deep Learning, Natural Language Processing
+- 📫 How to reach me: sadatnazmus567@gmail.com
+
+---
+
+### 🧰 Tech Expertise:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
